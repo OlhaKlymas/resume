@@ -249,7 +249,7 @@ label {
   position: absolute;
   margin-top: 50px;
   width: 800px;
-  height: 1600px;
+  height: 1300px;
   background-color: #eee;
   padding: 50px 70px;
   border-radius: 10px; }
@@ -462,9 +462,7 @@ label {
   transition: transform 0.1s ease-out;
   transition: transform 0.1s ease-out, -webkit-transform 0.1s ease-out; }
   .arrow:hover {
-    -webkit-transform: translateY(-50%) scale(1.1);
-    -ms-transform: translateY(-50%) scale(1.1);
-    transform: translateY(-50%) scale(1.1); }
+    opacity: 0.5; }
   .arrow:active {
     -webkit-transform: translateY(-50%) scale(1);
     -ms-transform: translateY(-50%) scale(1);
