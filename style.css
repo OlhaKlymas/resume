@@ -464,7 +464,8 @@ label {
   .arrow:hover {
     -webkit-transform: translateY(-50%) scale(1);
     -ms-transform: translateY(-50%) scale(1);
-    transform: translateY(-50%) scale(1); }
+    transform: translateY(-50%) scale(1);
+    opacity: 0.5 }
   .arrow:active {
     -webkit-transform: translateY(-50%) scale(1);
     -ms-transform: translateY(-50%) scale(1);
