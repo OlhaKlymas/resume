@@ -5,7 +5,7 @@
 ### Запуск  
 Чтобы запустить проект необходимо в консоли ввести следующие команды:
 ```
-npm clone https://github.com/OlhaKlymas/FrontPage.git
+git clone https://github.com/OlhaKlymas/FrontPage.git
 npm install
 npm run build
 открыть index.html в папке build
